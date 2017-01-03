@@ -6,4 +6,12 @@
 
 **Thoughts:**
 
-**Link to work:** 
+**Link to work:**
+
+### Day 1: January 3, 2017
+
+**Today's Progress**: Completed the contact section of my site for FreeCodeCamp's portfolio project.  This included adding and formatting Bootstrap buttons, and working with Bootstrap's grid system.  I also started adding content to the portfolio section of the site, including a description and two images of a past project.
+
+**Thoughts:** Bootstrap grid doesn't always do what you think, but really isn't too bad.
+
+**Link to work:** Current CodePen: http://codepen.io/adstratm/pen/MJgGLQ
