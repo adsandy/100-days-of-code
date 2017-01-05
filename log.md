@@ -15,3 +15,12 @@
 **Thoughts:** Bootstrap grid doesn't always do what you think, but really isn't too bad.
 
 **Link to work:** Current CodePen: http://codepen.io/adstratm/pen/MJgGLQ
+
+
+### Day 2: January 4, 2017
+
+**Today's Progress**: Added another project with images to the portfolio.  Main work was in fixing an incorrectly displaying navigation bar with Bootstrap.  I found resources online to help with this issue, and I was able to make the navbar collapse when viewing on mobile.
+
+**Thoughts:** Bootstrap navbars should by default be collapsed on mobile.
+
+**Link to work:** Current CodePen: http://codepen.io/adstratm/pen/MJgGLQ
