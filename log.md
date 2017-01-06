@@ -24,3 +24,12 @@
 **Thoughts:** Bootstrap navbars should by default be collapsed on mobile.
 
 **Link to work:** Current CodePen: http://codepen.io/adstratm/pen/MJgGLQ
+
+
+### Day 3: January 5, 2017
+
+**Today's Progress**: Completed the portfolio project, including the about section.  Added JS scrolling to the navbar.  Started work on the Javascript section of Free Code Camp.
+
+**Thoughts:** There should be a bootstrap js class for the smooth scrolling.  It seems like a feature most people would want by default.
+
+**Link to work:** Current CodePen: http://codepen.io/adstratm/pen/MJgGLQ
