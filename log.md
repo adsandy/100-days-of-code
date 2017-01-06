@@ -33,3 +33,12 @@
 **Thoughts:** There should be a bootstrap js class for the smooth scrolling.  It seems like a feature most people would want by default.
 
 **Link to work:** Current CodePen: http://codepen.io/adstratm/pen/MJgGLQ
+
+
+### Day 4: January 6, 2017
+
+**Today's Progress**: Worked hard on the Free Code Camp basic JS exercises.  I hope to be done with this section by the end of the day tomorrow.
+
+**Thoughts:** JS is evil.
+
+**Link to work:** NA, see freecodecamp.com
