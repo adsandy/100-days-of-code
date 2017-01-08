@@ -42,3 +42,11 @@
 **Thoughts:** JS is evil.
 
 **Link to work:** NA, see freecodecamp.com
+
+### Day 5: January 7, 2017
+
+**Today's Progress**: Finished Free Code Camp basic JS exercises and the OOP exerciese.
+
+**Thoughts:** Looking forward to starting the basic algorithm scripting problems tomorrow.
+
+**Link to work:** NA, see freecodecamp.com 
