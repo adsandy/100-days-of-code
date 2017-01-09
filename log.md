@@ -49,4 +49,11 @@
 
 **Thoughts:** Looking forward to starting the basic algorithm scripting problems tomorrow.
 
+**Link to work:** NA, see freecodecamp.com
+
+
+### Day 6: January 8, 2017
+
+**Today's Progress**: Completed about half of the Free Code Camp basic algorithm scripting challenges.
+
 **Link to work:** NA, see freecodecamp.com 
