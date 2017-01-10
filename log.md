@@ -45,7 +45,7 @@
 
 ### Day 5: January 7, 2017
 
-**Today's Progress**: Finished Free Code Camp basic JS exercises and the OOP exerciese.
+**Today's Progress**: Finished Free Code Camp basic JS exercises and the OOP exercises.
 
 **Thoughts:** Looking forward to starting the basic algorithm scripting problems tomorrow.
 
@@ -56,4 +56,12 @@
 
 **Today's Progress**: Completed about half of the Free Code Camp basic algorithm scripting challenges.
 
-**Link to work:** NA, see freecodecamp.com 
+**Link to work:** NA, see freecodecamp.com
+
+### Day 7: January 10, 2017
+
+**Today's Progress**: Completed the second hald of the Free Code Camp basic algorithm scripting challenges.  Tomorrow I start the API training.
+
+**Thoughts:** It helps to use a language every day.
+
+**Link to work:** NA, see freecodecamp.com  
