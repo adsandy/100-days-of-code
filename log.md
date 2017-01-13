@@ -73,3 +73,12 @@
 **Thoughts:** JQuery is so much more user friendly and easy to learn than JS.
 
 **Link to work:** http://codepen.io/adstratm/pen/apdYEP
+
+
+### Day 9: January 13, 2017
+
+**Today's Progress**: Completed the local weather app.
+
+**Thoughts:** APIs aren't terribly hard to use when the documentation is clear.
+
+**Link to work:** http://codepen.io/adstratm/pen/RKRjqX
