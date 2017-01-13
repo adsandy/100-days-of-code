@@ -64,4 +64,12 @@
 
 **Thoughts:** It helps to use a language every day.
 
-**Link to work:** NA, see freecodecamp.com  
+**Link to work:** NA, see freecodecamp.com
+
+### Day 8: January 11, 2017
+
+**Today's Progress**: Finished Free Code Camp API exercises, and completed the random quote project.
+
+**Thoughts:** JQuery is so much more user friendly and easy to learn than JS.
+
+**Link to work:** http://codepen.io/adstratm/pen/apdYEP
