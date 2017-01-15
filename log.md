@@ -82,3 +82,11 @@
 **Thoughts:** APIs aren't terribly hard to use when the documentation is clear.
 
 **Link to work:** http://codepen.io/adstratm/pen/RKRjqX
+
+### Day 10: January 14, 2017
+
+**Today's Progress**: Started work on the Wikipedia viewer.
+
+**Thoughts:** Wikipedia API isn't too bad.
+
+**Link to work:** http://codepen.io/adstratm/pen/XpjbMW
