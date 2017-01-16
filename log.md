@@ -90,3 +90,11 @@
 **Thoughts:** Wikipedia API isn't too bad.
 
 **Link to work:** http://codepen.io/adstratm/pen/XpjbMW
+
+### Day 11: January 15, 2017
+
+**Today's Progress**: Made progress on the Wikipedia viewer.  The search API is functional, but I still need to work out displaying the results in a nice way and clearing old results when a new query is entered.
+
+**Thoughts:** It seems like each API has a particular "trick" to making it work.  Wikipedia requires the inclusion of 'origin=\*' in the query to return results.
+
+**Link to work:** http://codepen.io/adstratm/pen/XpjbMW
