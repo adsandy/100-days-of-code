@@ -98,3 +98,12 @@
 **Thoughts:** It seems like each API has a particular "trick" to making it work.  Wikipedia requires the inclusion of 'origin=\*' in the query to return results.
 
 **Link to work:** http://codepen.io/adstratm/pen/XpjbMW
+
+
+### Day 12: January 16, 2017
+
+**Today's Progress**: Finished the Wikipedia viewer!
+
+**Thoughts:**  The Twitch challenge looks intimidating.  I actually have no idea what Twitch is.
+
+**Link to work:** http://codepen.io/adstratm/full/XpjbMW/
