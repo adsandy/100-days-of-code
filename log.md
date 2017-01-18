@@ -107,3 +107,11 @@
 **Thoughts:**  The Twitch challenge looks intimidating.  I actually have no idea what Twitch is.
 
 **Link to work:** http://codepen.io/adstratm/full/XpjbMW/
+
+### Day 13: January 17, 2017
+
+**Today's Progress**: Started work on the Twitch.tv status viewer.  Got the api working, but need to put in some work with making the table look nice and getting info about the stream
+
+**Thoughts**: Still no idea what Twitch is actually for.  Whenever I go on their site the streams always take forever to load.
+
+**Link to work**: http://codepen.io/adstratm/pen/LxbMdq
