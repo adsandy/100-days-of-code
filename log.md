@@ -115,3 +115,11 @@
 **Thoughts**: Still no idea what Twitch is actually for.  Whenever I go on their site the streams always take forever to load.
 
 **Link to work**: http://codepen.io/adstratm/pen/LxbMdq
+
+###Day 13 - 20: Through January 24, 2017
+
+**Today's Progress**: Finished the Twitch viewer, completed all of the intermediate JS exercises, finished the advanced JS exercises, and started on the Javascript calculator.  The calculator needs work on some refinements, but is minimally functional.
+
+**Thoughts**: The algorithm challenges are pretty fun.  As a C programmer, JS seems to work reasonably well with little effort, but I realize that it is much less efficient.
+
+**Link to work**: http://codepen.io/adstratm/pen/LxbMdq http://codepen.io/adstratm/full/ggRvqb/
