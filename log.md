@@ -123,3 +123,19 @@
 **Thoughts**: The algorithm challenges are pretty fun.  As a C programmer, JS seems to work reasonably well with little effort, but I realize that it is much less efficient.
 
 **Link to work**: http://codepen.io/adstratm/pen/LxbMdq http://codepen.io/adstratm/full/ggRvqb/
+
+### Day 21: January 25, 2017
+
+**Today's Progress**: Finished the Javascript calculator!
+
+**Thoughts**: Excited to only have three more projects before achieving the front end certificate!
+
+**Link to work**: http://codepen.io/adstratm/full/ggRvqb/
+
+### Day 22: January 26, 2017
+
+**Today's Progress**: Worked on some hackerrank challenges and started the HTML/CSS portion of the Pomodoro Clock.  Also moved my portfolio project to my github page for all to see.
+
+**Thoughts**: Note: I'll be doing a Hackerrank coding competition Friday through Sunday, so I might not make as much progress as usual on the freeCodeCamp projects.
+
+**Link to work**: http://codepen.io/adstratm/pen/pRWGZJ
