@@ -139,3 +139,11 @@
 **Thoughts**: Note: I'll be doing a Hackerrank coding competition Friday through Sunday, so I might not make as much progress as usual on the freeCodeCamp projects.
 
 **Link to work**: http://codepen.io/adstratm/pen/pRWGZJ
+
+### Days 23-29: Ending on February 8, 2017
+
+**Today's Progress**: Finished the pomodoro clock, did many Hackerrank challenges, finished a pairs programming exercises, and laid plans for several projects in the future.
+
+**Thoughts**: Things have been going well but it is difficult to code daily in addition to classes and other commitments.
+
+**Link to work**: http://codepen.io/adstratm/full/pRWGZJ/
